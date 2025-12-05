@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: XREALSettings
   m_EditorClassIdentifier: Unity.XR.XREAL::Unity.XR.XREAL.XREALSettings
   StereoRendering: 2
-  InitialTrackingType: 1
+  InitialTrackingType: 0
   InitialInputSource: 1
   VirtualController: {fileID: 1406232319260624, guid: afed05c45059824429a2a2322bf6a6c1, type: 3}
   SupportMultiResume: 1
@@ -21,7 +21,7 @@ MonoBehaviour:
   - VIBRATION
   - CAMERA
   - RECORD_AUDIO
-  EnableAutoLogcat: 0
+  EnableAutoLogcat: 1
   EnableNativeSessionManager: 0
   SupportDevices: 0100000002000000
   LicenseAsset: {fileID: 0}

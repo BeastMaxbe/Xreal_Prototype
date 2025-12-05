@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/XREAL XR Plugin/3.1.0/Interaction Basics/HelloMR/HelloMR.unity
     guid: 0c611a2881614c644b9df39be7bf8fe6
+  - enabled: 0
+    path: Assets/Samples/XREAL XR Plugin/3.1.0/Camera Features/FirstPersonStreammingCast/FirstPersonViewStreamingCast.unity
+    guid: 7d540e896be756e4c9c44271661ff99a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 87b0edb1ba037a8428d218367ab04a4c, type: 2}

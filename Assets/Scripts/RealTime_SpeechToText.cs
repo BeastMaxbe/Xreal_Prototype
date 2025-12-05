@@ -116,7 +116,7 @@ public class RealTime_SpeechToText : MonoBehaviour
                 keyword.onDetected = new KeywordEvent();
         }
 
-        OnStartButtonClick();
+       // OnStartButtonClick();
     }
 
     void SetupAudio()

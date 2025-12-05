@@ -475,7 +475,7 @@ namespace Unity.XR.XREAL.Samples
         }
 
         /// <summary> Take a photo. </summary>
-        void TakeAPhoto()
+       public void TakeAPhoto()
         {
             if (isOnPhotoProcess)
             {
